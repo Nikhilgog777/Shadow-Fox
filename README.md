@@ -23,19 +23,21 @@ The tasks helped me improve my problem-solving skills and practical understandin
 ---
 
 ## 🛠️ Technologies & Tools Used
-
+- **Languages**: Python (Pandas, NumPy, Matplotlib)
+- **Tools**: Git, VS Code
+- **Concepts**: Data Cleaning, EDA
 
 ---
 
 ## 📂 Internship Tasks
-
+1. **Beginner Task** – Visualization Library Documentation 
 
 
 ---
 
 ## 📈 Skills Gained
-
-
+- Data wrangling and preprocessing
+- Version control with Git/GitHub
 ---
 
 ## 🎯 Objective
@@ -55,8 +57,12 @@ I would like to thank ShadowFox for providing this opportunity to learn and gain
 
 ## ⭐ Connect With Me
 
-- LinkedIn: [Add Your LinkedIn Profile]
-- GitHub: [Add Your GitHub Profile]
+- <a href="https://www.linkedin.com/in/nikhil-goswami-nik777" target="_blank">
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+- <a href="https://github.com/Nikhilgog777" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
 
 ---
 
